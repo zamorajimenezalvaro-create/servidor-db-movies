@@ -1,0 +1,14 @@
+{
+  "name": "servidor-db-movies",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "espress": "^0.0.0",
+    "express": "^5.2.1"
+  }
+}
